@@ -15,12 +15,12 @@ Hora | Actividad | Speaker | Track
 10:10 - 11:10 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps]()
 11:10 - 12:25 | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps]()
 11:10 - 12:25 | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps]()
-12:25 - 13:30 | [Lunch](#Comida) | N/A | N/A
-13:30 - 14:30 | Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database]()
-13:30 - 14:30 | TBD | N/A | [Database]()
-14:30 - 14:40 | _Coffee Break_ | N/A | N/A
-14:40 - 14:50 | Cierre del evento | N/A | N/A
-14:50 - 15:00 | Rifa | N/A | N/A
+12:25 - 13:25 | [Lunch](#Comida) | N/A | N/A
+13:25 - 14:40 | Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database]()
+13:25 - 14:40 | TBD | N/A | [Database]()
+14:40 - 14:50 | _Coffee Break_ | N/A | N/A
+14:50 - 15:00 | Cierre del evento | N/A | N/A
+15:00 - 15:30 | Rifa | N/A | N/A
 
 # Sponsors
 
