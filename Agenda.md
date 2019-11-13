@@ -10,7 +10,7 @@ Hora | Actividad | Speaker | Track
 08:45 - 09:00 | Keynote - Evolucion de la tecnologia | Allan Fong | N/A 
 09:00 - 10:00 | ¿Bases de datos en Azure? | Christian Araujo | [Cloud]()
 09:00 - 10:00 | CI/CD para bases de datos | Marcos Cano | [DevOps]()
-10:00 - 10:10 | Coffee Break | N/A | N/A 
+10:00 - 10:10 | _Coffee Break_ | N/A | N/A 
 10:10 - 11:10 | Introduccion a Azure SQL DB | Marlon Coti | [Cloud]()
 10:10 - 11:10 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps]()
 11:10 - 12:30 | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps]()
@@ -18,7 +18,7 @@ Hora | Actividad | Speaker | Track
 12:30 - 13:30 | [Lunch](#Comida) | N/A | N/A
 13:30 - 14:30 | Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database]()
 13:30 - 14:30 | TBD | N/A | [Database]()
-14:30 - 14:40 | Coffee Break | N/A | N/A
+14:30 - 14:40 | _Coffee Break_ | N/A | N/A
 14:40 - 14:50 | Cierre del evento | N/A | N/A
 14:50 - 15:00 | Rifa | N/A | N/A
 
@@ -39,7 +39,7 @@ Estas son algunas consideraciones especiales:
 No abra parqueo de cortesia, recomendamos usar Uber o ya sea parquear a los alrededores de 4 grados norte
 
 ## Comida
-Tendremos cofee break en el transcurso del dia gracias a GBM.  
+Tendremos coffee break en el transcurso del dia gracias a GBM.  
 Para el almuerzo, te invitamos a desgustar un delicioso Shuko!!
 
 ## Rifa
