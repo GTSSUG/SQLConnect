@@ -5,19 +5,22 @@
 
 Hora | Actividad | Speaker
 --- | --- | --- 
-09:00 - 09:30 | Registro | N/A
-09:30 - 09:40 | Bienvenida | Carlos Robles
-09:30 - 09:40 | Keynote - Evolucion de la tecnologia | Allan Fong
-09:40 - 10:30 | ¿Bases de datos en Azure? | Christian Araujo
-10:30 - 11:15 | CI/CD para bases de datos | Marcos Cano
-11:15 - 12:00 | Introduccion a Azure SQL DB | Marlon Coti
-12:00 - 13:00 | [Lunch](#Comida) | N/A
-13:00 - 13:45 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon
-13:45 - 14:45 | Creando un cluster de Kubernetes gratuito! | Alvin Estrada
-13:45 - 14:45 | SQL Server containers en multiples plataformas | Carlos Lopez
-13:45 - 14:45 | Fundamentos del lenguage T-SQL | Eduardo Pivaral
-14:45 - 15:00 | Coffee Break | N/A
-16:30 - 17:00 | Rifa y cierre del evento | N/A
+08:00 - 08:30 | Registro | N/A
+08:30 - 08:45 | Bienvenida | Carlos Robles
+08:45 - 09:00 | Keynote - Evolucion de la tecnologia | Allan Fong
+09:00 - 10:00 | ¿Bases de datos en Azure? | Christian Araujo
+09:00 - 10:00 | CI/CD para bases de datos | Marcos Cano
+10:00 - 10:10 | Coffee Break | N/A
+10:10 - 11:10 | Introduccion a Azure SQL DB | Marlon Coti
+10:10 - 11:10 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon
+11:10 - 12:10 | Creando un cluster de Kubernetes gratuito! | Alvin Estrada
+11:10 - 12:10 | SQL Server containers en multiples plataformas | Carlos Lopez
+12:10 - 13:30 | [Lunch](#Comida) | N/A
+13:30 - 14:30 | Fundamentos del lenguage T-SQL | Eduardo Pivaral
+13:30 - 14:30 | TBD | N/A
+14:30 - 14:40 | Coffee Break | N/A
+14:40 - 14:50 | Cierre del evento | N/A
+14:50 - 15:30 | Rifa | N/A
 
 # Sponsors
 
