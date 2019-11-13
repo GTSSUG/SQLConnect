@@ -13,9 +13,9 @@ Hora | Actividad | Speaker | Track
 10:00 - 10:10 | _Coffee Break_ | N/A | N/A 
 10:10 - 11:10 | Introduccion a Azure SQL DB | Marlon Coti | [Cloud]()
 10:10 - 11:10 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps]()
-11:10 - 12:30 | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps]()
-11:10 - 12:30 | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps]()
-12:30 - 13:30 | [Lunch](#Comida) | N/A | N/A
+11:10 - 12:25 | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps]()
+11:10 - 12:25 | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps]()
+12:25 - 13:30 | [Lunch](#Comida) | N/A | N/A
 13:30 - 14:30 | Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database]()
 13:30 - 14:30 | TBD | N/A | [Database]()
 14:30 - 14:40 | _Coffee Break_ | N/A | N/A
@@ -24,10 +24,10 @@ Hora | Actividad | Speaker | Track
 
 # Sponsors
 
-* [GBM]()
-* [RedGate]()
-* [MSSQL Tips]()
-* [Windocks]()
+* [GBM](https://www.gbm.net)
+* [RedGate](https://www.red-gate.com)
+* [MSSQL Tips](https://www.mssqltips.com)
+* [Windocks](https://windocks.com)
 
 # Logistica
 
