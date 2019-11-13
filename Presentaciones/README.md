@@ -1,4 +1,4 @@
-![Header](images/header.jpg)
+![Header](header.jpg)
 
 # Presentaciones
 
