@@ -42,7 +42,6 @@ Para el almuerzo, te invitamos a desgustar un delicioso Shuko!!
 
 ## Workshop de Kubernetes
 Es necesario contar con laptop, habran premios para las primeras personas que completen el ejercicio exitosamente.
-
 Por favor [revisar guia](Workshop.md) para preparar la laptop a utilizar durante el workshop.
 
 ## Rifa
