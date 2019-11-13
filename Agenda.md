@@ -36,14 +36,14 @@ Gracias al aporte de nuestros sponsors este evento sera **totalmente GRATUITO**,
 Estas son algunas consideraciones especiales:
 
 ## Parqueo
-No abra parqueo de cortesia, recomendamos usar Uber o ya sea parquear a los alrededores de 4 grados norte
+No habrá parqueo de cortesia, recomendamos usar Uber o ya sea parquear a los alrededores de 4 grados norte
 
 ## Comida
 Tendremos coffee break en el transcurso del dia gracias a GBM.  
 Para el almuerzo, te invitamos a desgustar un delicioso Shuko!!
 
 ## Rifa
-Habran premios para los asistentes del evento, es requisito estar presente durante la rifa.
+Habrán premios para los asistentes del evento, es requisito estar presente durante la rifa.
 
 # Contacto
 Para mas informacion y registro de este evento click [aqui](https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466).  
