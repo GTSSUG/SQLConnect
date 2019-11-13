@@ -1,6 +1,8 @@
 ![Header](images/header.jpg)
 # SQLConnect (@Tec)
-_Design.Build.Connect_
+```
+Design.Build.Connect
+```
 
 Los lideres de la comunidad SQL Server Guatemala, se han unido con los lideres de las comunidades Docker, Kubernetes y Azure Guatemala para presentarles este evento gratuito.
 
