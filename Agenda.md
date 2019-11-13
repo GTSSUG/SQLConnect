@@ -10,7 +10,7 @@ Hora | Actividad | Speaker | Track
 08:45 - 09:00 | Keynote - Evolucion de la tecnologia | Allan Fong | N/A 
 09:00 - 10:00 | ¿Bases de datos en Azure? | Christian Araujo | [Cloud]()
 09:00 - 10:00 | CI/CD para bases de datos | Marcos Cano | [DevOps]()
-10:00 - 10:10 | **_[Coffee break]_(#Comida)** | N/A | N/A 
+10:00 - 10:10 | **_[Coffee break](#Comida)_** | N/A | N/A
 10:10 - 11:10 | Introduccion a Azure SQL DB | Marlon Coti | [Cloud]()
 10:10 - 11:10 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps]()
 11:10 - 12:25 | **Creando un cluster de Kubernetes gratuito!** | Alvin Estrada | [DevOps]()
@@ -18,7 +18,7 @@ Hora | Actividad | Speaker | Track
 12:25 - 13:25 | **_[Lunch](#Comida)_** | N/A | N/A
 13:25 - 14:40 | **Fundamentos del lenguage T-SQL** | Eduardo Pivaral | [Database]()
 13:25 - 14:40 | TBD | N/A | [Database]()
-14:40 - 14:50 | **_[Coffee break]_(#Comida)** | N/A | N/A 
+14:40 - 14:50 | **_[Coffee break](#Comida)_** | N/A | N/A
 14:50 - 15:00 | Cierre del evento | N/A | N/A
 15:00 - 15:30 | Rifa | N/A | N/A
 
