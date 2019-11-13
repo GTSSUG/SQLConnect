@@ -7,16 +7,18 @@ Hora | Actividad | Speaker
 --- | --- | --- 
 09:00 - 09:30 | Registro | N/A
 09:30 - 09:40 | Bienvenida | Carlos Robles
-09:40 - 10:30 | Beating the End of Support for SQL Server 2008/R2 | Christian Araujo
-10:30 - 11:15 | Modernizing with SQL Server the Right Way (Migration process) | Allan Fong
-11:15 - 12:00 | Modernizing with SQL Server the Right Way (Post-Migration process) | Eduardo Pivaral
+09:30 - 09:40 | Keynote - Evolucion de la tecnologia | Allan Fong
+09:40 - 10:30 | ¿Bases de datos en Azure? | Christian Araujo
+10:30 - 11:15 | CI/CD para bases de datos | Marcos Cano
+11:15 - 12:00 | Introduccion a Azure SQL DB | Marlon Coti
 12:00 - 13:00 | [Lunch](#Comida) | N/A
-13:00 - 13:45 | Modernizing with SQL Server 2019 & Intel (New hardware capabilities) | Carlos Lopez
-13:45 - 14:45 | Modernizing with SQL Server 2019 & Intel (New features, platforms) | Carlos Robles
+13:00 - 13:45 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon
+13:45 - 14:45 | Creando un cluster de Kubernetes gratuito! | Alvin Estrada
+SQL Server containers en multiples plataformas | Carlos Lopez
+Fundamentos del lenguage T-SQL | Eduardo Pivaral
 14:45 - 15:00 | Coffee Break | N/A
 15:00 - 16:30 | [Workshop](#Workshop) | N/A
 16:30 - 17:00 | Rifa y cierre del evento | N/A
-
 
 # Logistica
 
