@@ -25,8 +25,8 @@ Hora | Actividad | Speaker | Track
 # Sponsors
 
 * [GBM](https://www.gbm.net)
-* [RedGate](https://www.red-gate.com)
 * [MSSQL Tips](https://www.mssqltips.com)
+* [RedGate](https://www.red-gate.com)
 * [Windocks](https://windocks.com)
 
 # Logistica
