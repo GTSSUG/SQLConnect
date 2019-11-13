@@ -17,7 +17,7 @@ Hora | Actividad | Speaker
 13:45 - 14:45 | SQL Server containers en multiples plataformas | Carlos Lopez
 13:45 - 14:45 | Fundamentos del lenguage T-SQL | Eduardo Pivaral
 14:45 - 15:00 | Coffee Break | N/A
-15:00 - 16:30 | [Workshop](#Workshop) | N/A
+15:00 - 16:30 | [Workshop](#Workshop-de-Kubernetes) | N/A
 16:30 - 17:00 | Rifa y cierre del evento | N/A
 
 # Sponsors
