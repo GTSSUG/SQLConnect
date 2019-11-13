@@ -21,6 +21,4 @@ Para mas informacion y registro de este evento click [aqui](https://www.eventbri
 Seguinos en [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
 
 # Follow us
-[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_twitter_circle_color_107170.png)](https://twitter.com/gtssug) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_github_circle_black_107161.png)](https://github.com/GTSSUG)[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_browser_1055104.png)](https://gtssug.pass.org/)
-
-[website]: <https://gtssug.pass.org/>
+[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_twitter_circle_color_107170.png)](https://twitter.com/gtssug) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_github_circle_black_107161.png)](https://github.com/GTSSUG)[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_browser_1055104.png)](https://www.facebook.com/groups/gtssug/)
