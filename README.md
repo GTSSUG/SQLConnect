@@ -4,7 +4,7 @@
 [Design].{Build}.Connect();
 ```
 
-Los lideres de la comunidad [SQL Server Guatemala](https://www.facebook.com/groups/gtssug/), se han unido con los lideres de las comunidades [Docker](https://www.meetup.com/Docker-Guatemala/), [Kubernetes](https://www.facebook.com/groups/k8s.gt/) y [Azure Guatemala](https://www.facebook.com/groups/azuregt/) para presentarles este evento gratuito.
+La comunidad [SQL Server Guatemala](https://www.facebook.com/groups/gtssug/), se ha unido con los lideres de las comunidades [Docker](https://www.meetup.com/Docker-Guatemala/), [Kubernetes](https://www.facebook.com/groups/k8s.gt/) y [Azure Guatemala](https://www.facebook.com/groups/azuregt/) para presentarles este evento gratuito.
 
 Nuestro objetivo es compartir diferentes tecnologias y herramientas, que le ayudaran a desarrollar una plataforma moderna utilizando diferentes metodologias y servicios tales como Docker, Kubernetes, SQL Server y Azure.
 
