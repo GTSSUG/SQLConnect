@@ -37,7 +37,7 @@ Estas son algunas consideraciones especiales:
 No abra parqueo de cortesia, recomendamos usar Uber o ya sea parquear a los alrededores de 4 grados norte
 
 ## Comida
-Cofee break gracias a GBM
+Tendremos cofee break en el transcurso de la maniana gracias a GBM.  
 Para el almuerzo, te invitamos a desgustar un delicioso Shuko!!
 
 ## Workshop de Kubernetes
