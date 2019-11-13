@@ -17,7 +17,6 @@ Hora | Actividad | Speaker
 13:45 - 14:45 | SQL Server containers en multiples plataformas | Carlos Lopez
 13:45 - 14:45 | Fundamentos del lenguage T-SQL | Eduardo Pivaral
 14:45 - 15:00 | Coffee Break | N/A
-15:00 - 16:30 | [Workshop](#Workshop-de-Kubernetes) | N/A
 16:30 - 17:00 | Rifa y cierre del evento | N/A
 
 # Sponsors
@@ -37,16 +36,11 @@ Estas son algunas consideraciones especiales:
 No abra parqueo de cortesia, recomendamos usar Uber o ya sea parquear a los alrededores de 4 grados norte
 
 ## Comida
-Tendremos cofee break en el transcurso de la maniana gracias a GBM.  
+Tendremos cofee break en el transcurso del dia gracias a GBM.  
 Para el almuerzo, te invitamos a desgustar un delicioso Shuko!!
-
-## Workshop de Kubernetes
-Es necesario contar con laptop, habran premios para las primeras personas que completen el ejercicio exitosamente.
-Por favor [revisar guia](Workshop.md) para preparar la laptop a utilizar durante el workshop.
 
 ## Rifa
 Habran premios para los asistentes del evento, es requisito estar presente durante la rifa.
-
 
 # Contacto
 Para mas informacion y registro de este evento click [aqui](https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466).  
