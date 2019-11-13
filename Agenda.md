@@ -20,27 +20,34 @@ Hora | Actividad | Speaker
 15:00 - 16:30 | [Workshop](#Workshop) | N/A
 16:30 - 17:00 | Rifa y cierre del evento | N/A
 
+# Sponsors
+
+* [GBM]()
+* [RedGate]()
+* [MSSQL Tips]()
+* [Windocks]()
+
 # Logistica
 
-Gracias a nuestros patrocinadores, este evento es totalmente gratuito, asi que unicamente tienes que asistir al envento!
+Gracias al aporte de nuestros sponsors este evento sera **totalmente GRATUITO**, asi que unicamente tienes que asistir al envento!
+
 Estas son algunas consideraciones especiales:
 
 ## Parqueo
-No tendra ningun costo, cortesia de Microsoft, Intel y GBM
+No abra parqueo de cortesia, recomendamos usar Uber o ya sea parquear a los alrededores de 4 grados norte
 
 ## Comida
-Cofee break y almuerzo sin costo, cortesia de Microsoft, Intel
+Cofee break gracias a GBM
+Para el almuerzo, te invitamos a desgustar un delicioso Shuko!!
 
-## Workshop
-Es necesario contar con laptop, habran premios para las primeras personas que completen el ejercicio de migracion exitosamente.
+## Workshop de Kubernetes
+Es necesario contar con laptop, habran premios para las primeras personas que completen el ejercicio exitosamente.
 
 Por favor [revisar guia](Workshop.md) para preparar la laptop a utilizar durante el workshop.
 
 ## Rifa
 Habran premios para los asistentes del evento, es requisito estar presente durante la rifa.
 
-## Diploma de participacion
-Todos los asistentes contaran con diploma de participacion.
 
 # Contacto
 Para mas informacion y registro de este evento click [aqui](https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466).  
