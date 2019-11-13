@@ -17,7 +17,7 @@ Hora | Actividad | Speaker | Track
 11:10 - 12:10 | SQL Server containers en multiples plataformas | Carlos Lopez | **DevOps**
 12:10 - 13:30 | [Lunch](#Comida) | N/A | N/A
 13:30 - 14:30 | Fundamentos del lenguage T-SQL | Eduardo Pivaral | **Database**
-13:30 - 14:30 | TBD | N/A | Database
+13:30 - 14:30 | TBD | N/A | **_Database_**
 14:30 - 14:40 | Coffee Break | N/A | N/A
 14:40 - 14:50 | Cierre del evento | N/A | N/A
 14:50 - 15:30 | Rifa | N/A | N/A
