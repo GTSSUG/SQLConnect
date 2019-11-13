@@ -16,7 +16,6 @@ Nuestro objetivo es compartir diferentes tecnologias y herramientas, que le ayud
 Para obtener mas informacion especifica sobre el evento, consulte aca:
 * [Agenda](Agenda.md)
 * [Presentaciones](Presentaciones/README.md)
-* [Workshop](Workshop.md)
 
 Para mas informacion y registro de este evento click [aqui](https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466).  
 Seguinos en [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
