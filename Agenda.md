@@ -34,7 +34,7 @@ Track dedicado a todo lo relacionado a bases de datos
 
 # Sponsors
 
-* [GBM](https://www.gbm.net)
+* [Datum](https://www.datum.com.gt/)
 * [MSSQL Tips](https://www.mssqltips.com)
 * [RedGate](https://www.red-gate.com)
 * [Windocks](https://windocks.com)
