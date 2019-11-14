@@ -43,7 +43,7 @@ Auditorio | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Datab
 
 # Quinto bloque 02:00 a 03:00 PM
 Lugar | Actividad | Speaker | Track
---- | --- | ---  | --- | --- |
+--- | --- | ---  | ---
 Aula Magna | Desarrollando serverless apps en Azure Cognitive Services | DATUM | [Cloud](#Cloud)
 Auditorio| Transformando applicaciones hacia arquitecturas cloud-native | DATUM | [Cloud](#Cloud)
 
