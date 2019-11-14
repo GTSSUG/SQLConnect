@@ -5,7 +5,7 @@
 ```
 # Agenda
 ## Apertura evento
->Apertura evento
+>**Apertura evento**
 
 Hora | Actividad | Lugar
 --- | --- | ---
