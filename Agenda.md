@@ -18,7 +18,7 @@ Hora | Actividad | Speaker | Track
 11:00 - 12:00 | **SQL Server containers en multiples plataformas** | Carlos Lopez | [DevOps](#DevOps)
 12:00 - 13:00 | **_[Lunch](#Comida)_** | N/A | N/A
 13:00 - 14:00 | **Fundamentos del lenguage T-SQL** | Eduardo Pivaral | [Database](#Database)
-13:00 - 14:00 | TBD | N/A | [Database](#Database)
+13:00 - 14:00 | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database)
 14:00 - 15:00 | Desarrollo de aplicaciones serverless en Azure utilizando Cognitive Services | DATUM | [Cloud](#Cloud)
 14:00 - 15:00 | Cómo transformar aplicaciones tradicionales hacia una arquitectura cloud-native | DATUM | [Cloud](#Cloud)
 15:00 - 15:15 | **_[Coffee break](#Comida)_** | N/A | N/A
