@@ -20,7 +20,7 @@ Hora | Actividad | Speaker | Track
 13:00 - 14:00 | **Fundamentos del lenguage T-SQL** | Eduardo Pivaral | [Database](#Database)
 13:00 - 14:00 | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database)
 14:00 - 15:00 | Desarrollando serverless apps en Azure Cognitive Services | DATUM | [Cloud](#Cloud)
-14:00 - 15:00 | Transformando aplicaciones tradicionales hacia una arquitectura cloud-native | DATUM | [Cloud](#Cloud)
+14:00 - 15:00 | Transformando applicaciones hacia arquitecturas cloud-native | DATUM | [Cloud](#Cloud)
 15:00 - 15:15 | **_[Coffee break](#Comida)_** | N/A | N/A
 15:15 - 15:45 | Cierre del evento / Rifa | N/A | N/A
 
