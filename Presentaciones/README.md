@@ -1,7 +1,9 @@
-![Header](header.jpg)
-
+![Header](images/header.jpg)
+# SQLConnect (@Tec)
+```
+[Code].{Build}.Connect();
+```
 # Presentaciones
-
 
 Sesion | Speaker
 --- | --- 

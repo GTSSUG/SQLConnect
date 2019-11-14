@@ -1,7 +1,7 @@
 ![Header](images/header.jpg)
 # SQLConnect (@Tec)
 ```
-[Design].{Build}.Connect();
+[Code].{Build}.Connect();
 ```
 
 [Guatemala SQL Server User Group](https://www.facebook.com/groups/gtssug/), se ha unido con los lideres de las comunidades [Docker](https://www.meetup.com/Docker-Guatemala/), [Kubernetes](https://www.facebook.com/groups/k8s.gt/) y [Azure Guatemala](https://www.facebook.com/groups/azuregt/) para presentarles este evento gratuito.

@@ -1,5 +1,8 @@
 ![Header](images/header.jpg)
-
+# SQLConnect (@Tec)
+```
+[Code].{Build}.Connect();
+```
 # Agenda
 
 Hora | Actividad | Speaker | Track
@@ -35,7 +38,6 @@ Track dedicado a todo lo relacionado a bases de datos
 * [Windocks](https://windocks.com)
 
 # Logistica
-
 Gracias al aporte de nuestros sponsors este evento sera **totalmente GRATUITO**, asi que unicamente tienes que asistir al envento!
 
 Estas son algunas consideraciones especiales:
