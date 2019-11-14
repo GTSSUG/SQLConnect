@@ -5,24 +5,24 @@
 ```
 # Agenda
 
-Hora | Actividad | Speaker | Track
---- | --- | ---  | --- 
-08:00 - 08:30 | Registro | :::::::::::::::::::::::::::::::::: | ::::::::::::::::
-08:30 - 08:50 | Bienvenida / Keynote | Carlos Robles | ::::::::::::::::
-08:50 - 09:00 | **_[Coffee break](#Comida)_** | :::::::::::::::::::::::::::::::::: | ::::::::::::::::
-09:00 - 10:00 | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud)
-09:00 - 10:00 | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps)
-10:00 - 11:00 | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud)
-10:00 - 11:00 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps)
-11:00 - 12:00 | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps)
-11:00 - 12:00 | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps)
-12:00 - 13:00 | **_[Lunch](#Comida)_** | :::::::::::::::::::::::::::::::::: | ::::::::::::::::
-13:00 - 14:00 | Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Database)
-13:00 - 14:00 | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database)
-14:00 - 15:00 | Desarrollando serverless apps en Azure Cognitive Services | DATUM | [Cloud](#Cloud)
-14:00 - 15:00 | Transformando applicaciones hacia arquitecturas cloud-native | DATUM | [Cloud](#Cloud)
-15:00 - 15:15 | **_[Coffee break](#Comida)_** | :::::::::::::::::::::::::::::::::: | ::::::::::::::::
-15:15 - 15:45 | Cierre del evento / Rifa | Carlos Lopez | ::::::::::::::::
+Hora | Actividad | Speaker | Track | Salon
+--- | --- | ---  | --- | --- 
+08:00 - 08:30 | Registro | :::::::::::::::::::::::::::::::::: | :::::::::::::::: | Salon 1
+08:30 - 08:50 | Bienvenida / Keynote | Carlos Robles | :::::::::::::::: | Salon 1
+08:50 - 09:00 | **_[Coffee break](#Comida)_** | :::::::::::::::::::::::::::::::::: | :::::::::::::::: | Salon 1
+09:00 - 10:00 | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | Salon 1
+09:00 - 10:00 | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps) | Salon 1
+10:00 - 11:00 | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | Salon 1
+10:00 - 11:00 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps) | Salon 1
+11:00 - 12:00 | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | Salon 1
+11:00 - 12:00 | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps) | Salon 1
+12:00 - 13:00 | **_[Lunch](#Comida)_** | :::::::::::::::::::::::::::::::::: | :::::::::::::::: | Salon 1
+13:00 - 14:00 | Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Database) | Salon 1
+13:00 - 14:00 | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | Salon 1
+14:00 - 15:00 | Desarrollando serverless apps en Azure Cognitive Services | DATUM | [Cloud](#Cloud) | Salon 1
+14:00 - 15:00 | Transformando applicaciones hacia arquitecturas cloud-native | DATUM | [Cloud](#Cloud) | Salon 1
+15:00 - 15:15 | **_[Coffee break](#Comida)_** | :::::::::::::::::::::::::::::::::: | :::::::::::::::: | Salon 1
+15:15 - 15:45 | Cierre del evento / Rifa | Carlos Lopez | :::::::::::::::: | Salon 1
 
 # Tracks
 ## Cloud

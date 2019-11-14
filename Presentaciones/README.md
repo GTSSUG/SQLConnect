@@ -14,6 +14,9 @@ Microservicios con .NET Core 3 y cómo Dockerizarlos | [Geovani De Leon]()
 Creando un cluster de Kubernetes gratuito! | [Alvin Estrada]()
 SQL Server containers en multiples plataformas | [Carlos Lopez]()
 Fundamentos del lenguage T-SQL | [Eduardo Pivaral]()
+Desarrollando serverless apps en Azure Cognitive Services | [DATUM]()
+Transformando applicaciones hacia arquitecturas cloud-native | [DATUM]()
+Piérdele el miedo a los Indices | [Mynor Bolanos]()
 
 # Contacto
 Para cualquier comentario o duda envia un correo a gtssug@pass.org
