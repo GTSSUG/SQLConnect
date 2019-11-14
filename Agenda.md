@@ -10,17 +10,19 @@ Hora | Actividad | Speaker | Track
 08:00 - 08:30 | Registro | N/A | N/A 
 08:30 - 08:50 | Bienvenida / Keynote | Carlos Robles | N/A
 08:50 - 09:00 | **_[Coffee break](#Comida)_** | N/A | N/A
-09:00 - 10:15 | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud)
-09:00 - 10:15 | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps)
-10:15 - 11:15 | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud)
-10:15 - 11:15 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps)
-11:15 - 12:30 | **Creando un cluster de Kubernetes gratuito!** | Alvin Estrada | [DevOps](#DevOps)
-11:15 - 12:30 | **SQL Server containers en multiples plataformas** | Carlos Lopez | [DevOps](#DevOps)
-12:30 - 13:30 | **_[Lunch](#Comida)_** | N/A | N/A
-13:30 - 14:45 | **Fundamentos del lenguage T-SQL** | Eduardo Pivaral | [Database](#Database)
-13:30 - 14:45 | TBD | N/A | [Database](#Database)
-14:45 - 15:00 | **_[Coffee break](#Comida)_** | N/A | N/A
-15:00 - 15:30 | Cierre del evento / Rifa | N/A | N/A
+09:00 - 10:00 | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud)
+09:00 - 10:00 | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps)
+10:00 - 11:00 | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud)
+10:00 - 11:00 | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps)
+11:00 - 12:00 | **Creando un cluster de Kubernetes gratuito!** | Alvin Estrada | [DevOps](#DevOps)
+11:00 - 12:00 | **SQL Server containers en multiples plataformas** | Carlos Lopez | [DevOps](#DevOps)
+12:00 - 13:00 | **_[Lunch](#Comida)_** | N/A | N/A
+13:00 - 14:00 | **Fundamentos del lenguage T-SQL** | Eduardo Pivaral | [Database](#Database)
+13:00 - 14:00 | TBD | N/A | [Database](#Database)
+14:00 - 15:00 | Desarrollo de aplicaciones serverless en Azure utilizando Cognitive Services | DATUM | [Cloud](#Cloud)
+14:00 - 15:00 | Cómo transformar aplicaciones tradicionales hacia una arquitectura cloud-native | DATUM | [Cloud](#Cloud)
+15:00 - 15:15 | **_[Coffee break](#Comida)_** | N/A | N/A
+15:15 - 15:45 | Cierre del evento / Rifa | N/A | N/A
 
 # Tracks
 ## Cloud
