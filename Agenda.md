@@ -7,7 +7,7 @@
 
 Hora | Actividad | Speaker | Track | Salon
 --- | --- | ---  | --- | --- 
-08:00 - 08:30 | Registro | :::::::::::::::::::::::::::::::::: | :::::::::::::::: | Salon 1
+08:00 - 08:30 | Registro | :::::::::::::::::::::::::::::::::: | :::::::::::::::: | Aula magna
 08:30 - 08:50 | Bienvenida / Keynote | Carlos Robles | :::::::::::::::: | Salon 1
 08:50 - 09:00 | **_[Coffee break](#Comida)_** | :::::::::::::::::::::::::::::::::: | :::::::::::::::: | Salon 1
 09:00 - 10:00 | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | Salon 1
