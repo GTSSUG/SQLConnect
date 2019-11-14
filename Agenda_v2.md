@@ -10,7 +10,7 @@ Hora | Actividad | Lugar
 
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
-Auditorio | Desarrollando serverless apps en Azure Cognitive Services | DATUM |[Cloud](#Cloud) | AM_1
+Auditorio | Desarrollando serverless apps en Azure Cognitive Services | Rafael Cordon |[Cloud](#Cloud) | AM_1
 Aula Magna | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | AM_1
 Auditorio | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps) | AM_2
 Aula Magna | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | AM_2
@@ -26,7 +26,7 @@ Hora | Actividad | Lugar
 ## Sesiones
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
-Auditorio |Integración continua para aplicaciones .NET en AWS | DATUM |[Cloud](#Cloud) | PM_4
+Auditorio |Integración continua para aplicaciones .NET usando  AWS |  Mauro Jutzutz |[Cloud](#Cloud) | PM_4
 Aula Magna | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps) | PM_4
 Auditorio | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | PM_5
 Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | PM_5
