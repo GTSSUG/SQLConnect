@@ -7,7 +7,7 @@
 
 Hora | Actividad | Speaker | Track
 --- | --- | ---  | --- 
-08:00 - 08:30 | Registro | N/A | ::::::::::::::::
+08:00 - 08:30 | Registro | :::::::::::::::::::::::::::::::::: | ::::::::::::::::
 08:30 - 08:50 | Bienvenida / Keynote | Carlos Robles | ::::::::::::::::
 08:50 - 09:00 | **_[Coffee break](#Comida)_** | :::::::::::::::::::::::::::::::::: | ::::::::::::::::
 09:00 - 10:00 | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud)
@@ -21,7 +21,7 @@ Hora | Actividad | Speaker | Track
 13:00 - 14:00 | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database)
 14:00 - 15:00 | Desarrollando serverless apps en Azure Cognitive Services | DATUM | [Cloud](#Cloud)
 14:00 - 15:00 | Transformando applicaciones hacia arquitecturas cloud-native | DATUM | [Cloud](#Cloud)
-15:00 - 15:15 | **_[Coffee break](#Comida)_** | :::::::::::::::: | ::::::::::::::::
+15:00 - 15:15 | **_[Coffee break](#Comida)_** | :::::::::::::::::::::::::::::::::: | ::::::::::::::::
 15:15 - 15:45 | Cierre del evento / Rifa | Carlos Lopez | ::::::::::::::::
 
 # Tracks
