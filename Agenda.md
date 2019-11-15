@@ -9,7 +9,7 @@ Hora | Actividad | Lugar
 --- | --- | ---
 08:00 - 08:30 | Registro | ::::::::::::::::::::::::::::::::::
 08:30 - 08:50 | Bienvenida / Keynote | Auditorio
-08:50 - 09:00 | [Coffee break](#Comida) invita DATUM | Area de registro
+08:50 - 09:00 | [Coffee break](#Comida) cortesia de DATUM | Area de registro
 
 ## Sesiones - Bloque AM
 Lugar | Sesion | Speaker | Track | Bloque
