@@ -53,10 +53,15 @@ Nuestra comunidad busca fomentar la educacion gratuita de SQL Server, si quieres
 # Bloque de sesiones
 
 > ### AM_1
+De 09:00 a 10:00 AM
 > ### AM_2
+De 1O:00 a 11:00 AM
 > ### AM_3
+De 11:00 a 12:00 PM
 > ### PM_1
+De O1:00 a 02:00 PM
 > ### PM_2
+De 02:00 a 03:00 PM
 
 # Contacto
 Para mas informacion y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
