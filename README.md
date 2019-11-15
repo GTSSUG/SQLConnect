@@ -17,14 +17,6 @@ Para obtener mas informacion especifica sobre el la agenday presentaciones, cons
 * [Agenda](Agenda.md)
 * [Presentaciones](Presentaciones/README.md)
 
-# Tracks
-## Cloud
-Track dedicado a todo lo relacionado a cloud computing
-## DevOps
-Track dedicado a todo lo relacionado a DevOps
-## Database
-Track dedicado a todo lo relacionado a bases de datos
-
 # Sponsors
 
 * [Datum](https://www.datum.com.gt/)
