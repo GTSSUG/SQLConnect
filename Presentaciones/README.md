@@ -9,13 +9,13 @@ Sesion | Speaker
 --- | --- 
 ¿Bases de datos en Azure? | [Christian Araujo]()
 CI/CD para bases de datos | [Marcos Cano]()
+Transformando applicaciones hacia arquitecturas cloud-native | [Rafael Cordon]()
 Introduccion a Azure SQL DB | [Marlon Coti]()
 Microservicios con .NET Core 3 y cómo Dockerizarlos | [Geovani De Leon]()
 Creando un cluster de Kubernetes gratuito! | [Alvin Estrada]()
+Desarrollando serverless apps en Azure Cognitive Services | [Mauro Jutzutz ]()
 SQL Server containers en multiples plataformas | [Carlos Lopez]()
 Fundamentos del lenguage T-SQL | [Eduardo Pivaral]()
-Desarrollando serverless apps en Azure Cognitive Services | [DATUM]()
-Transformando applicaciones hacia arquitecturas cloud-native | [DATUM]()
 Piérdele el miedo a los Indices | [Mynor Bolanos]()
 
 # Contacto
