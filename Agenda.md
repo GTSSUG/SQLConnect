@@ -14,12 +14,12 @@ Hora | Actividad | Lugar
 ## Sesiones - Bloque AM
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
-Auditorio | Desarrollando serverless apps en Azure Cognitive | Rafael Cordon |[Cloud](#Cloud) | AM_1
-Aula Magna | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | AM_1
-Auditorio | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps) | AM_2
-Aula Magna | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | AM_2
-Auditorio | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps) | AM_3
-Aula Magna| Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Database) | AM_3
+Auditorio | Desarrollando serverless apps en Azure Cognitive | Rafael Cordon |[Cloud](#Cloud) | [AM_1](#AM_1)
+Aula Magna | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | [AM_1](#AM_1)
+Auditorio | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps) | [AM_2](#AM_2)
+Aula Magna | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | [AM_2](#AM_2)
+Auditorio | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps) | [AM_3](#AM_3)
+Aula Magna| Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Database) | [AM_3](#AM_3)
 
 ## Almuerzo
 Hora | Actividad | Lugar
@@ -29,10 +29,10 @@ Hora | Actividad | Lugar
 ## Sesiones - Bloque PM
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
-Auditorio |Integración continua para aplicaciones .NET usando  AWS |  Mauro Jutzutz |[Cloud](#Cloud) | PM_1
-Aula Magna | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps) | PM_1
-Auditorio | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | PM_2
-Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | PM_2
+Auditorio |Integración continua para aplicaciones .NET usando  AWS |  Mauro Jutzutz |[Cloud](#Cloud) | [PM_1](#PM_1)
+Aula Magna | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps) | [PM_1](#PM_1)
+Auditorio | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | [PM_2](#PM_2)
+Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | [PM_2](#PM_2)
 
 ## Cierre
 Hora | Actividad | Lugar
@@ -51,18 +51,12 @@ Development + Operations = DevOps. Si tu interes es aprender tecnologias y metol
 Nuestra comunidad busca fomentar la educacion gratuita de SQL Server, si quieres aprender mas sobre T-SQL o tecnicas para crear indices no te pierdas estas sesiones.
 
 # Bloque de sesiones
-## Bloque AM
-Bloque | Hora 
---- | --- |
-AM_1 |
-AM_2 |
-AM_3 |
 
-## Bloque PM
-Bloque | Hora 
---- | --- |
-PM_1 |
-PM_2 |
+> ### AM_1
+> ### AM_2
+> ### AM_3
+> ### PM_1
+> ### PM_2
 
 # Contacto
 Para mas informacion y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
