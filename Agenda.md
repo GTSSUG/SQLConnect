@@ -5,16 +5,14 @@
 ```
 # Agenda
 
-## Apertura
-
+### Apertura
 Hora | Actividad | Lugar
 --- | --- | ---
 08:00 - 08:30 | Registro | ::::::::::::::::::::::::::::::::::
 08:30 - 08:50 | Bienvenida / Keynote | Auditorio
 08:50 - 09:00 | [Coffee break](#Comida) invita DATUM | Area de registro
 
-## Sesiones
-
+### Sesiones
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
 Auditorio | Desarrollando serverless apps en Azure Cognitive Services | Rafael Cordon |[Cloud](#Cloud) | AM_1
@@ -25,7 +23,7 @@ Auditorio | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps) | AM_3
 Aula Magna| Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Database) | AM_3
 
 
-## Almuerzo
+### Almuerzo
 Hora | Actividad | Lugar
 --- | --- | ---
 12:00 - 01:00 PM | [Lunch](#Comida) invita GTSSUG | Parqueo 2do nivel
@@ -38,8 +36,7 @@ Aula Magna | SQL Server containers en multiples plataformas | Carlos Lopez | [De
 Auditorio | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | PM_5
 Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | PM_5
 
-## Cierre
-
+### Cierre
 Hora | Actividad | Lugar
 --- | --- | ---
 03:00 - 03:15 PM | [Coffee break](#Comida) invita GBM | Area de registro
