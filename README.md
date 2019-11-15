@@ -34,7 +34,7 @@ Estas son algunas consideraciones especiales:
 No abra parqueo de cortesia, recomendamos usar Uber o ya sea parquear a los alrededores de 4 grados norte
 
 ## Comida
-Tendremos coffee break en el transcurso del dia gracias a [Datum](https://www.datum.com.gt/) y [GBM](https://www.gbm.net).
+Tendremos coffee break en el transcurso del dia gracias a [Datum](https://www.datum.com.gt/) y [GBM](https://www.gbm.net).  
 Para el almuerzo, GTSSUG te invita a degustar un delicioso Shuko!!
 
 ## Rifa
@@ -44,8 +44,6 @@ Habran premios para los asistentes del evento, es requisito estar presente duran
 Para mas informacion y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
 Seguinos en [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
 
-Para mas informacion y registro de este evento click [aqui](https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466).  
-Seguinos en [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
 
 # Follow us
 [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_twitter_circle_color_107170.png)](https://twitter.com/gtssug) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_github_circle_black_107161.png)](https://github.com/GTSSUG)[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_browser_1055104.png)](https://www.facebook.com/groups/gtssug/)
