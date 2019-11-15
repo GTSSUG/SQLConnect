@@ -30,14 +30,14 @@ Gracias al aporte de nuestros sponsors este evento sera **totalmente GRATUITO**,
 
 Estas son algunas consideraciones especiales:
 
-> ## Parqueo
+### Parqueo
 No abra parqueo de cortesia, recomendamos usar Uber o ya sea parquear a los alrededores de 4 grados norte
 
-> ## Comida
+### Comida
 Tendremos coffee break en el transcurso del dia gracias a [Datum](https://www.datum.com.gt/) y [GBM](https://www.gbm.net).  
 Para el almuerzo, GTSSUG te invita a degustar un delicioso Shuko!!
 
-> ## Rifa
+### Rifa
 Habran premios para los asistentes del evento, es requisito estar presente durante la rifa.
 
 # Dudas o preguntas?
