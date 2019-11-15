@@ -11,7 +11,7 @@ Hora | Actividad | Lugar
 08:30 - 08:50 | Bienvenida / Keynote | Auditorio
 08:50 - 09:00 | [Coffee break](#Comida) invita DATUM | Area de registro
 
-## Sesiones
+## Sesiones - Bloque AM
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
 Auditorio | Desarrollando serverless apps en Azure Cognitive | Rafael Cordon |[Cloud](#Cloud) | AM_1
@@ -26,7 +26,7 @@ Hora | Actividad | Lugar
 --- | --- | ---
 12:00 - 01:00 PM | [Lunch](#Comida) cortesia de GTSSUG | Parqueo segundo nivel
 
-## Sesiones
+## Sesiones - Bloque PM
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
 Auditorio |Integración continua para aplicaciones .NET usando  AWS |  Mauro Jutzutz |[Cloud](#Cloud) | PM_4
