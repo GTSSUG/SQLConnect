@@ -63,33 +63,11 @@ Hora | Actividad | Lugar
 
 # Tracks
 ## Cloud
-Track dedicado a todo lo relacionado a cloud computing
+Cloud computing es el enfoque primario de las sesiones en este track, si quieres aprender mas sobre Azure, AWS o Azure SQL DB no te pierdas estas sesiones.
 ## DevOps
-Track dedicado a todo lo relacionado a DevOps
+Development + Operations = DevOps. Si tu interes es aprender tecnologias y metologias que te permitan desarrollar, construir e implementar aplicaciones e infraestructura por medio de codigo - No te pierdas las sesiones en este track.
 ## Database
-Track dedicado a todo lo relacionado a bases de datos
-
-# Sponsors
-
-* [Datum](https://www.datum.com.gt/)
-* [MSSQL Tips](https://www.mssqltips.com)
-* [RedGate](https://www.red-gate.com)
-* [Windocks](https://windocks.com)
-
-# Logistica
-Gracias al aporte de nuestros sponsors este evento sera **totalmente GRATUITO**, asi que unicamente tienes que asistir al envento!
-
-Estas son algunas consideraciones especiales:
-
-## Parqueo
-No abra parqueo de cortesia, recomendamos usar Uber o ya sea parquear a los alrededores de 4 grados norte
-
-## Comida
-Tendremos coffee break en el transcurso del dia gracias a GBM.  
-Para el almuerzo, te invitamos a desgustar un delicioso Shuko!!
-
-## Rifa
-Habran premios para los asistentes del evento, es requisito estar presente durante la rifa.
+Nuestra comunidad busca fomentar la educacion gratuita de SQL Server, si quieres aprender mas sobre T-SQL o tecnicas para crear indices no te pierdas estas sesiones.
 
 # Contacto
 Para mas informacion y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
