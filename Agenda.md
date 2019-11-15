@@ -29,10 +29,10 @@ Hora | Actividad | Lugar
 ## Sesiones - Bloque PM
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
-Auditorio |Integración continua para aplicaciones .NET usando  AWS |  Mauro Jutzutz |[Cloud](#Cloud) | PM_4
-Aula Magna | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps) | PM_4
-Auditorio | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | PM_5
-Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | PM_5
+Auditorio |Integración continua para aplicaciones .NET usando  AWS |  Mauro Jutzutz |[Cloud](#Cloud) | PM_1
+Aula Magna | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps) | PM_1
+Auditorio | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | PM_2
+Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | PM_2
 
 ## Cierre
 Hora | Actividad | Lugar
@@ -49,6 +49,20 @@ Development + Operations = DevOps. Si tu interes es aprender tecnologias y metol
 
 ## Database
 Nuestra comunidad busca fomentar la educacion gratuita de SQL Server, si quieres aprender mas sobre T-SQL o tecnicas para crear indices no te pierdas estas sesiones.
+
+# Bloque de sesiones
+## Bloque AM
+Bloque | Hora 
+--- | --- |
+AM_1 |
+AM_2 |
+AM_3 |
+
+## Bloque PM
+Bloque | Hora 
+--- | --- |
+PM_1 |
+PM_2 |
 
 # Contacto
 Para mas informacion y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
