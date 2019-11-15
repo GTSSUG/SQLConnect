@@ -24,7 +24,7 @@ Aula Magna| Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Datab
 ## Almuerzo
 Hora | Actividad | Lugar
 --- | --- | ---
-12:00 - 01:00 PM | [Lunch](#Comida) cortesia de GTSSUG | Parqueo segundo nivel
+12:00 - 01:00 PM | [Lunch](#Comida) cortesia de GTSSUG | Parqueo 2do nivel
 
 ## Sesiones - Bloque PM
 Lugar | Sesion | Speaker | Track | Bloque
