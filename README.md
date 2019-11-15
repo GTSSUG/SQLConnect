@@ -18,6 +18,7 @@ Para obtener mas informacion especifica sobre el la agenday presentaciones, cons
 * [Presentaciones](Presentaciones/README.md)
 
 # Sponsors
+Un agradecimiento especial a nuestros sponsors, sin ellos este evento no seria posible.
 * [Datum](https://www.datum.com.gt/)
 * [GBM](https://www.gbm.net)
 * [MSSQL Tips](https://www.mssqltips.com)
