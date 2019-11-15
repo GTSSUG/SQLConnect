@@ -8,7 +8,7 @@
 
 Nuestro objetivo es compartir diferentes tecnologias y herramientas, que le ayudaran a desarrollar una plataforma moderna utilizando diferentes metodologias y servicios tales como Docker, Kubernetes, SQL Server y Azure.
 
-> ## Qué puede esperar de este evento?
+# Qué puede esperar de este evento?
 * Socialización y aprendizaje al lado de los lideres de las comunidades mas grandes de Guatemala
 * Acceso a la capacitación específica desarrollada por expertos
 * ¡Mucha diversión y premios!
@@ -18,7 +18,6 @@ Para obtener mas informacion especifica sobre el la agenday presentaciones, cons
 * [Presentaciones](Presentaciones/README.md)
 
 # Sponsors
-
 * [Datum](https://www.datum.com.gt/)
 * [GBM](https://www.gbm.net)
 * [MSSQL Tips](https://www.mssqltips.com)
