@@ -14,7 +14,7 @@ Hora | Actividad | Lugar
 ## Sesiones
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
-Auditorio | Desarrollando serverless apps en Azure Cognitive Services | Rafael Cordon |[Cloud](#Cloud) | AM_1
+Auditorio | Desarrollando serverless apps en Azure Cognitive | Rafael Cordon |[Cloud](#Cloud) | AM_1
 Aula Magna | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | AM_1
 Auditorio | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps) | AM_2
 Aula Magna | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | AM_2
