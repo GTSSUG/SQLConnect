@@ -9,7 +9,7 @@ Hora | Actividad | Lugar
 --- | --- | ---
 08:00 - 08:30 | Registro | ::::::::::::::::::::::::::::::::::
 08:30 - 08:50 | Bienvenida / Keynote | Auditorio
-08:50 - 09:00 | [Coffee break](#Comida) cortesia de DATUM | Area de registro
+08:50 - 09:00 | [Coffee break](#Comida) cortesia de [DATUM](https://www.datum.com.gt) | Area de registro
 
 ## Sesiones - Bloque AM
 Lugar | Sesion | Speaker | Track | Bloque
@@ -24,7 +24,7 @@ Aula Magna| Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Datab
 ## Almuerzo
 Hora | Actividad | Lugar
 --- | --- | ---
-12:00 - 01:00 PM | [Lunch](#Comida) cortesia de GTSSUG | Parqueo 2do nivel
+12:00 - 01:00 PM | [Lunch](#Comida) cortesia de [GTSSUG](http://facebook.com/groups/gtssug/) | Parqueo 2do nivel
 
 ## Sesiones - Bloque PM
 Lugar | Sesion | Speaker | Track | Bloque
@@ -37,7 +37,7 @@ Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Data
 ## Cierre
 Hora | Actividad | Lugar
 --- | --- | ---
-03:00 - 03:15 PM | [Coffee break](#Comida) cortesia de GBM | Area de registro
+03:00 - 03:15 PM | [Coffee break](#Comida) cortesia de [GBM](https://www.gbm.net) | Area de registro
 03:15 - 03:30 PM | Cierre del evento / Rifa | Auditorio
 
 # Tracks
