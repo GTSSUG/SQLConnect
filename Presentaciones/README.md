@@ -17,7 +17,7 @@ Creando un cluster de Kubernetes gratuito! | [Alvin Estrada]()
 Desarrollando serverless apps en Azure Cognitive Services | [Mauro Jutzutz ]()
 SQL Server containers en multiples plataformas | [Carlos Lopez]()
 Fundamentos del lenguage T-SQL | [Eduardo Pivaral]()
-TBD | Guillermo Zepeda ()
+TBD | [Guillermo Zepeda]()
 
 # Dudas o preguntas?
 Para mas informacion y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
