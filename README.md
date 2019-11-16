@@ -28,7 +28,7 @@ Empresa de consultoría especializada en plataformas cloud: DevOps, infraestruct
 Distribuidor exclusivo de IBM. Ofreciendo servicios infraestructura, software, servicios de TI.
 
 ## Internacionales
-* [MSSQL Tips](https://www.mssqltips.com)
+* [MSSQL Tips](https://www.mssqltips.com)  
 MSSQLTips.com is a free community dedicated to SQL Server.  Since 2006 our team has delivered value to millions of SQL Server DBAs, Developers and Business Intelligence Professionals on a daily basis. MSSQLTips.com helps solve real world problems and improve your SQL Server knowledge with free tips, tutorials, web casts, videos and more. 
 
 * [RedGate](https://www.red-gate.com)  
