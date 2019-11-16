@@ -19,8 +19,15 @@ Para obtener mas informacion especifica sobre el la agenday presentaciones, cons
 
 # Sponsors
 Un agradecimiento especial a nuestros sponsors, sin ellos este evento no seria posible.
-* [Datum](https://www.datum.com.gt/)
-* [GBM](https://www.gbm.net)
+
+## Locales
+* [Datum](https://www.datum.com.gt/)  
+Consultoría Especializada En Plataformas De Nube: DevOps, Infraestructura Como Código, Contenedores Y Bases De Datos.
+
+* [GBM](https://www.gbm.net)  
+Distribuidor exclusivo de IBM. Ofreciendo servicios infraestructura, software, servicios de TI.
+
+## Internacionales
 * [MSSQL Tips](https://www.mssqltips.com)
 * [RedGate](https://www.red-gate.com)
 * [Windocks](https://windocks.com)
