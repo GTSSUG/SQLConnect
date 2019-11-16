@@ -22,15 +22,20 @@ Un agradecimiento especial a nuestros sponsors, sin ellos este evento no seria p
 
 ## Locales
 * [Datum](https://www.datum.com.gt/)  
-Consultoría Especializada En Plataformas De Nube: DevOps, Infraestructura Como Código, Contenedores Y Bases De Datos.
+Empresa de consultoría especializada en plataformas cloud: DevOps, infraestructura como código, contenedores y bases de datos.
 
 * [GBM](https://www.gbm.net)  
 Distribuidor exclusivo de IBM. Ofreciendo servicios infraestructura, software, servicios de TI.
 
 ## Internacionales
 * [MSSQL Tips](https://www.mssqltips.com)
-* [RedGate](https://www.red-gate.com)
-* [Windocks](https://windocks.com)
+MSSQLTips.com is a free community dedicated to SQL Server.  Since 2006 our team has delivered value to millions of SQL Server DBAs, Developers and Business Intelligence Professionals on a daily basis. MSSQLTips.com helps solve real world problems and improve your SQL Server knowledge with free tips, tutorials, web casts, videos and more. 
+
+* [RedGate](https://www.red-gate.com)  
+Redgate Software is a software company based in Cambridge, England. It develops tools for developers and data professionals and maintains community websites such as SQL Server Central and Simple Talk. 
+
+* [Windocks](https://windocks.com)  
+Windocks delivers SQL Server containers with production database clones for Azure devops pipelines. Use Windocks to deploy production data environments for all your QA and staging environments.
 
 # Logistica
 Gracias al aporte de nuestros sponsors este evento sera **totalmente GRATUITO**, asi que unicamente tienes que asistir al envento!
