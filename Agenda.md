@@ -14,8 +14,8 @@ Hora | Actividad | Lugar
 ## Sesiones - Bloque AM
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
-Auditorio | Desarrollando serverless apps en Azure Cognitive | Rafael Cordon |[Cloud](#Cloud) | AM_1
-Aula Magna | TBD | Guillermo Zepeda | [Cloud](#Cloud) | AM_1
+Auditorio | TBD | Guillermo Zepeda | [Cloud](#Cloud) | AM_1
+Aula Magna | Desarrollando serverless apps en Azure Cognitive | Rafael Cordon |[Cloud](#Cloud) | AM_1
 Auditorio | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps) | AM_2
 Aula Magna | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | AM_2
 Auditorio | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps) | AM_3
