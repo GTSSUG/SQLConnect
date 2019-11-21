@@ -14,12 +14,12 @@ Hora | Actividad | Lugar
 ## Sesiones - Bloque AM
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
-Aula Magna | Desarrollando serverless apps en Azure Cognitive | Rafael Cordon |[Cloud](#Cloud) | AM_1
 Auditorio | TBD | Guillermo Zepeda | [Cloud](#Cloud) | AM_1
-Aula Magna | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | AM_2
+Aula Magna | Desarrollando serverless apps en Azure Cognitive | Rafael Cordon |[Cloud](#Cloud) | AM_1
 Auditorio | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps) | AM_2
-Aula Magna| Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Database) | AM_3
+Aula Magna | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | AM_2
 Auditorio | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps) | AM_3
+Aula Magna| Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Database) | AM_3
 
 ## Almuerzo
 Hora | Actividad | Lugar
@@ -29,16 +29,16 @@ Hora | Actividad | Lugar
 ## Sesiones - Bloque PM
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
-Aula Magna | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps) | PM_1
-Auditorio | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | PM_1
-Aula Magna | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | PM_2
-Auditorio | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | PM_2
+Auditorio | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps) | PM_1
+Aula Magna | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | PM_1
+Auditorio | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | PM_2
+Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | PM_2
 
 ## Cierre
 Hora | Actividad | Lugar
 --- | --- | ---
 03:00 - 03:15 PM | [Coffee break](#Comida) cortesia de [GBM](https://www.gbm.net) | Area de registro
-03:15 - 03:30 PM | Cierre del evento / Rifa | Auditorio
+03:15 - 03:30 PM | Cierre del evento / Rifa | Aula Magna
 
 # Tracks
 ## Cloud
