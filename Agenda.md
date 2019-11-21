@@ -56,7 +56,7 @@ Bloque | Hora
 AM_1 | De 09:00 a 10:00 AM
 AM_2 | De 10:00 a 11:00 AM
 AM_3 | De 11:00 a 12:00 PM
-PM_1 | De O1:00 a 02:00 PM
+PM_1 | De 01:00 a 02:00 PM
 PM_2 | De 02:00 a 03:00 PM
 
 # Dudas o preguntas?
