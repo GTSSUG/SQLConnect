@@ -9,7 +9,7 @@ Hora | Actividad | Lugar
 --- | --- | ---
 08:00 - 08:30 | Registro | ::::::::::::::::::::::::::::::::::
 08:30 - 08:50 | Bienvenida / Keynote | Aula Magna
-08:50 - 09:00 | [Coffee break](#Comida) cortesia de [DATUM](https://www.datum.com.gt) | Aula Magna
+08:50 - 09:00 | [Coffee break](#Comida) cortesía de [DATUM](https://www.datum.com.gt) | Aula Magna
 
 ## Sesiones - Bloque AM
 Lugar | Sesion | Speaker | Track | Bloque
@@ -24,7 +24,7 @@ Aula Magna| Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Datab
 ## Almuerzo
 Hora | Actividad | Lugar
 --- | --- | ---
-12:00 - 01:00 PM | [Lunch](#Comida) cortesia de [GTSSUG](http://facebook.com/groups/gtssug/) | Terraza 2do nivel
+12:00 - 01:00 PM | [Lunch](#Comida) cortesía de [GTSSUG](http://facebook.com/groups/gtssug/) | Terraza 2do nivel
 
 ## Sesiones - Bloque PM
 Lugar | Sesion | Speaker | Track | Bloque
@@ -42,13 +42,13 @@ Hora | Actividad | Lugar
 
 # Tracks
 ## Cloud
-Cloud computing es el enfoque primario de las sesiones en este track, si quieres aprender mas sobre Azure, AWS o Azure SQL DB no te pierdas estas sesiones.
+Cloud computing es el enfoque primario de las sesiones en este track, si quieres aprender más sobre Azure, AWS o Azure SQL DB no te pierdas estas sesiones.
 
 ## DevOps
-Development + Operations = DevOps. Si tu interes es aprender tecnologias y metologias que te permitan desarrollar, construir e implementar aplicaciones e infraestructura por medio de codigo - No te pierdas las sesiones en este track.
+Development + Operations = DevOps. Si tu interés es aprender tecnologías y mitologías que te permitan desarrollar, construir e implementar aplicaciones e infraestructura por medio de código - No te pierdas las sesiones en este track.
 
 ## Database
-Nuestra comunidad busca fomentar la educacion gratuita de SQL Server, si quieres aprender mas sobre T-SQL o tecnicas para crear indices no te pierdas estas sesiones.
+Nuestra comunidad busca fomentar la educación gratuita de SQL Server, si quieres aprender más sobre T-SQL o técnicas para crear índices no te pierdas estas sesiones.
 
 # Bloque de sesiones
 Bloque | Hora
@@ -59,8 +59,8 @@ AM_3 | De 11:00 a 12:00 PM
 PM_1 | De 01:00 a 02:00 PM
 PM_2 | De 02:00 a 03:00 PM
 
-# Dudas o preguntas?
-Para mas informacion y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
+# ¿Dudas?
+Para más información y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
 Seguinos en [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
 
 # Follow us
