@@ -18,8 +18,8 @@ SQL Server containers en multiples plataformas | [Carlos Lopez]()
 Fundamentos del lenguage T-SQL | [Eduardo Pivaral]()
 TBD | [Guillermo Zepeda]()
 
-# Dudas o preguntas?
-Para mas informacion y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
+# ¿Dudas?
+Para más información y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
 Seguinos en [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
 
 # Follow us
