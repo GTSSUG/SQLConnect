@@ -37,7 +37,7 @@ Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Data
 ## Cierre
 Hora | Actividad | Lugar
 --- | --- | ---
-03:00 - 03:15 PM | [Coffee break](#Comida) cortesia de [GBM](https://www.gbm.net) | Aula Magna
+03:00 - 03:15 PM | [Coffee break](https://github.com/GTSSUG/SQLConnect#log%C3%ADstica) cortesia de [GBM](https://www.gbm.net) | Aula Magna
 03:15 - 03:30 PM | Cierre del evento / Rifa | Aula Magna
 
 # Tracks
