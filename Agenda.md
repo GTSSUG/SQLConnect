@@ -9,7 +9,7 @@ Hora | Actividad | Lugar
 --- | --- | ---
 08:00 - 08:30 | Registro | ::::::::::::::::::::::::::::::::::
 08:30 - 08:50 | Bienvenida / Keynote | Aula Magna
-08:50 - 09:00 | [Coffee break](#Comida) cortesía de [DATUM](https://www.datum.com.gt) | Aula Magna
+08:50 - 09:00 | [Coffee break](https://github.com/GTSSUG/SQLConnect#log%C3%ADstica) cortesía de [DATUM](https://www.datum.com.gt) | Aula Magna
 
 ## Sesiones - Bloque AM
 Lugar | Sesion | Speaker | Track | Bloque
@@ -24,7 +24,7 @@ Aula Magna| Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Datab
 ## Almuerzo
 Hora | Actividad | Lugar
 --- | --- | ---
-12:00 - 01:00 PM | [Lunch](#Comida) cortesía de [GTSSUG](http://facebook.com/groups/gtssug/) | Terraza 2do nivel
+12:00 - 01:00 PM | [Lunch](https://github.com/GTSSUG/SQLConnect#log%C3%ADstica) cortesía de [GTSSUG](http://facebook.com/groups/gtssug/) | Terraza 2do nivel
 
 ## Sesiones - Bloque PM
 Lugar | Sesion | Speaker | Track | Bloque
