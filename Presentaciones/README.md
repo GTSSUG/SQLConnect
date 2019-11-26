@@ -16,7 +16,7 @@ Microservicios con .NET Core 3 y cómo Dockerizarlos | [Geovani De Leon]()
 Creando un cluster de Kubernetes gratuito! | [Alvin Estrada]()
 SQL Server containers en multiples plataformas | [Carlos Lopez]()
 Fundamentos del lenguage T-SQL | [Eduardo Pivaral]()
-TBD | [Guillermo Zepeda]()
+De cero a DevOps | [Guillermo Zepeda]()
 
 # ¿Dudas?
 Para más información y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
