@@ -17,7 +17,7 @@ Lugar | Sesion | Speaker | Track | Bloque
 Auditorio | De cero a DevOps | Guillermo Zepeda | [Cloud](#Cloud) | AM_1
 Aula Magna | Desarrollando serverless apps en Azure Cognitive | Rafael Cordon |[Cloud](#Cloud) | AM_1
 Auditorio | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps) | AM_2
-Aula Magna | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | AM_2
+Aula Magna | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | AM_2
 Auditorio | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps) | AM_3
 Aula Magna| Fundamentos del lenguage T-SQL | Eduardo Pivaral | [Database](#Database) | AM_3
 
@@ -30,7 +30,7 @@ Hora | Actividad | Lugar
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
 Auditorio | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps) | PM_1
-Aula Magna | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | PM_1
+Aula Magna | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | PM_1
 Auditorio | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | PM_2
 Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | PM_2
 
