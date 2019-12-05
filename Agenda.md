@@ -45,7 +45,7 @@ Hora | Actividad | Lugar
 Cloud computing es el enfoque primario de las sesiones en este track, si quieres aprender más sobre Azure, AWS o Azure SQL DB no te pierdas estas sesiones.
 
 ## DevOps
-Development + Operations = DevOps. Si tu interés es aprender tecnologías y mitologías que te permitan desarrollar, construir e implementar aplicaciones e infraestructura por medio de código - No te pierdas las sesiones en este track.
+Development + Operations = DevOps. Si tu interés es aprender tecnologías y metodologías que te permitan desarrollar, construir e implementar aplicaciones e infraestructura por medio de código - No te pierdas las sesiones en este track.
 
 ## Database
 Nuestra comunidad busca fomentar la educación gratuita de SQL Server, si quieres aprender más sobre T-SQL o técnicas para crear índices no te pierdas estas sesiones.
