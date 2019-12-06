@@ -15,7 +15,7 @@ Hora | Actividad | Lugar
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
 Auditorio | De cero a DevOps | Guillermo Zepeda | [Cloud](#Cloud) | AM_1
-Aula Magna | Desarrollando serverless apps en Azure Cognitive | Rafael Cordon / Mauro Jutzutz |[Cloud](#Cloud) | AM_1
+Aula Magna | Desarrollando serverless apps en Azure Cognitive | Rafael / Mauro |[Cloud](#Cloud) | AM_1
 Auditorio | Microservicios con .NET Core 3 y cómo Dockerizarlos | Geovani De Leon | [DevOps](#DevOps) | AM_2
 Aula Magna | ¿Bases de datos en Azure? | Christian Araujo | [Cloud](#Cloud) | AM_2
 Auditorio | CI/CD para bases de datos | Marcos Cano | [DevOps](#DevOps) | AM_3
@@ -49,6 +49,13 @@ Development + Operations = DevOps. Si tu interés es aprender tecnologías y met
 
 ## Database
 Nuestra comunidad busca fomentar la educación gratuita de SQL Server, si quieres aprender más sobre T-SQL o técnicas para crear índices no te pierdas estas sesiones.
+
+# Salones
+## Auditorio
+Ubicado en el **segundo nivel** del edificio Tec II
+
+## Aula Magna
+Ubicado en el **tercer nivel** del edificio Tec III
 
 # Bloque de sesiones
 Bloque | Hora
