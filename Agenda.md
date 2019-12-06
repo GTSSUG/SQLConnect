@@ -30,7 +30,7 @@ Hora | Actividad | Lugar
 Lugar | Sesion | Speaker | Track | Bloque
 --- | --- | --- | --- | ---
 Auditorio | SQL Server containers en multiples plataformas | Carlos Lopez | [DevOps](#DevOps) | PM_1
-Aula Magna | Introduccion a Azure SQL DB | Marlon Coti | [Cloud](#Cloud) | PM_1
+Aula Magna | Introduccion a Azure SQL Database | Marlon Coti | [Cloud](#Cloud) | PM_1
 Auditorio | Creando un cluster de Kubernetes gratuito! | Alvin Estrada | [DevOps](#DevOps) | PM_2
 Aula Magna | Piérdele el miedo a los Indices | Mynor Bolanos | [Database](#Database) | PM_2
 
