@@ -8,13 +8,13 @@
 Sesion | Speaker
 --- | --- 
 ¿Bases de datos en Azure? | [Christian Araujo]()
-Piérdele el miedo a los Indices | [Mynor Bolanos]()
+Piérdele el miedo a los Indices | [Mynor Bolanos](./files/Pierdele_el_miedo_a_los_indices.zip)
 CI/CD para bases de datos | [Marcos Cano](./files/CI_CD_para_Bases_de_Datos.pptx)
 Desarrollando serverless apps en Azure Cognitive Services | [Rafael Cordon / Mauro Jutzutz]()
-Introduccion a Azure SQL DB | [Marlon Coti]()
-Microservicios con .NET Core 3 y cómo Dockerizarlos | [Geovani De Leon]()
-Creando un cluster de Kubernetes gratuito! | [Alvin Estrada]()
-SQL Server containers en multiples plataformas | [Carlos Lopez]()
+Introduccion a Azure SQL DB | [Marlon Coti](./files/Introducccion_a_Azure_SQL_DB.pptx)
+Microservicios con .NET Core 3 y cómo Dockerizarlos | [Geovani De Leon](./files/microservicios_net_core_3.pdf)
+Creando un cluster de Kubernetes gratuito! | [Alvin Estrada](./files/Creando_un_cluster_de_Kubernetes_gratuito.pptx)
+SQL Server containers en multiples plataformas | [Carlos Lopez](./files/SQLServer_Containers_multiples_plataformas.zip)
 Fundamentos del lenguage T-SQL | [Eduardo Pivaral](./files/Fundamentos_de_T_SQL.zip)
 De cero a DevOps | [Guillermo Zepeda](./files/De_cero_a_DevOps.pdf)
 
