@@ -9,7 +9,7 @@ Sesion | Speaker
 --- | --- 
 ¿Bases de datos en Azure? | [Christian Araujo]()
 Piérdele el miedo a los Indices | [Mynor Bolanos]()
-CI/CD para bases de datos | [Marcos Cano]()
+CI/CD para bases de datos | [Marcos Cano](./MarcosCano.zip)
 Desarrollando serverless apps en Azure Cognitive Services | [Rafael Cordon / Mauro Jutzutz]()
 Introduccion a Azure SQL DB | [Marlon Coti]()
 Microservicios con .NET Core 3 y cómo Dockerizarlos | [Geovani De Leon]()
