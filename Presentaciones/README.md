@@ -9,14 +9,14 @@ Sesion | Speaker
 --- | --- 
 ¿Bases de datos en Azure? | [Christian Araujo]()
 Piérdele el miedo a los Indices | [Mynor Bolanos]()
-CI/CD para bases de datos | [Marcos Cano](./MarcosCano.zip)
+CI/CD para bases de datos | [Marcos Cano](./files/CI_CD_para_Bases_de_Datos.pptx)
 Desarrollando serverless apps en Azure Cognitive Services | [Rafael Cordon / Mauro Jutzutz]()
 Introduccion a Azure SQL DB | [Marlon Coti]()
 Microservicios con .NET Core 3 y cómo Dockerizarlos | [Geovani De Leon]()
 Creando un cluster de Kubernetes gratuito! | [Alvin Estrada]()
 SQL Server containers en multiples plataformas | [Carlos Lopez]()
-Fundamentos del lenguage T-SQL | [Eduardo Pivaral]()
-De cero a DevOps | [Guillermo Zepeda]()
+Fundamentos del lenguage T-SQL | [Eduardo Pivaral](./files/Fundamentos_de_T_SQL.zip)
+De cero a DevOps | [Guillermo Zepeda](./files/De_cero_a_DevOps.pdf)
 
 # ¿Dudas?
 Para más información y registro de este evento click [aqui](https://sqlconnect_2019.eventbrite.com).  
