@@ -10,7 +10,7 @@ Sesion | Speaker
 ¿Bases de datos en Azure? | [Christian Araujo]()
 Piérdele el miedo a los Indices | [Mynor Bolanos](./files/Pierdele_el_miedo_a_los_indices.zip)
 CI/CD para bases de datos | [Marcos Cano](./files/CI_CD_para_Bases_de_Datos.pptx)
-Desarrollando serverless apps en Azure Cognitive Services | [Rafael Cordon / Mauro Jutzutz]()
+Desarrollando serverless apps en Azure Cognitive Services | [Rafael Cordon / Mauro Jutzutz](./files/DocumentQuery_IntroPPT_Diciembre_2019.pdf)
 Introduccion a Azure SQL DB | [Marlon Coti](./files/Introducccion_a_Azure_SQL_DB.pptx)
 Microservicios con .NET Core 3 y cómo Dockerizarlos | [Geovani De Leon](./files/microservicios_net_core_3.pdf)
 Creando un cluster de Kubernetes gratuito! | [Alvin Estrada](./files/Creando_un_cluster_de_Kubernetes_gratuito.pptx)
